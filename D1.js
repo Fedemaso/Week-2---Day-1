@@ -17,6 +17,10 @@ REGOLE
 - il dato STRINGA che indica un insieme di uno o più caratteri sempre racchiusi tra apici che possono essere doppi ( "xxx" ) o singoli ( 'xxx' ) eg: let hello = "helloWorld"
 - il dato NUMERICO che indica un insieme di uno o più numeri che possono essere interi o decimali e non vanno mai racchiusi fra apici eg: let number = 123456
 - il dato BOOLEANO, che ammette solo i due valori TRUE e FALSE ed è usato principalmente per confermare o meno delle richieste tramite codice e di conseguenza potergli far prendere delle decisioni. eg let fedeIsAwesome = false 
+ 
+e poi ci sono altri due tipi "secondari"
+- il dato NULL che determina una variabile con valore nullo
+- il dato UNDEFINED che determina una variabile definita ma ancora senza un valore assegnato
 
 
 /* ESERCIZIO 2
